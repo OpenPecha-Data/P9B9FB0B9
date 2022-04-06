@@ -1,0 +1,29 @@
+id: P9B9FB0B9
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA30052
+  instance_id: http://purl.bdrc.io/resource/IE30052
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - མི་ཡུལ་ལ་བཞག་པའི་བསམ་གཞིག
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P10067
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
+  volumes:
+    969c61bef70e4a58b0568e4cbefeaf52:
+      title: པོད ༡་མི་ཡུལ་ལ་བཞག་པའི་བསམ་གཞིག
+      volume_number: 1
+      base_file: UT30052_5839_0000.txt
+      reference: http://purl.bdrc.io/resource/VLC5EF9011D16E6512
+      image_group: '5839'
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W30052
+  - http://purl.bdrc.io/resource/MW30052
+  ocr_software: Namsel
+created_at: '2021-12-22T11:19:08.739899'
+last_modified_at: '2021-12-22T11:19:08.739906'
